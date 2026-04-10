@@ -159,3 +159,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear." alt="Hacker Quote" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer" width="100%" />
+</div>
