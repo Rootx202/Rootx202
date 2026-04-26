@@ -1,165 +1,249 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=220&section=header&text=Bashar%20Khamousi%20|%20RootX&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Red%20Teamer%20%7C%20AI%20Enthusiast&descAlignY=60&descFontSize=18&fontColor=ffffff" width="100%" />
-
+  
+  <!-- Animated Matrix Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Bashar%20Khamousi%20%7C%20RootX&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Red%20Teamer%20%7C%20AI%20Developer%20%7C%20Open%20Source%20Creator&descAlignY=55&descFontSize=20&stroke=00ff41&strokeWidth=1" width="100%" />
+  
+  <!-- Glitch Effect Typing -->
   <a href="https://github.com/Rootx202">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Computer+Science+%26+Software+Engineering;Professional+Red+Teamer+%26+Pentester;Open+Source+%26+AI+Developer;Mobile+App+Developer+(Flutter)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Red+Teamer+%26+Security+Researcher;%F0%9F%94%90+CEH+v12+Certified+Professional;%F0%9F%A4%96+AI-Driven+Security+Solutions;%F0%9F%93%B1+Flutter+Mobile+Developer;%F0%9F%9B%A1%EF%B8%8F+Building+Open+Source+Security+Tools" alt="Typing SVG" />
   </a>
 
+  <!-- Stats Badges -->
   <p align="center">
     <a href="https://t.me/RootXGPT">
-      <img src="https://img.shields.io/badge/RootXGPT_Bot-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+      <img src="https://img.shields.io/badge/🤖_RootXGPT_Bot-26A8ED?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Rootx202&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Views" />
+    <a href="https://www.tiktok.com/@rootx.202">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Rootx202&label=Profile%20Views&color=00ff41&style=for-the-badge&labelColor=0D1117" />
+    <img src="https://img.shields.io/github/followers/Rootx202?style=for-the-badge&logo=github&color=00ff41&labelColor=0D1117" />
   </p>
 </div>
 
----
-
-### 👨‍💻 نبذة عني ورحلتي | About Me & Journey
-
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="50%" dir="ltr">
-      <h3>Who I Am & My Vision</h3>
-      <ul>
-        <li>🎓 <b>Computer Science Student</b> & Software Engineer.</li>
-        <li>🛡️ Specialized in <b>Red Teaming</b> & Web Pentesting.</li>
-        <li>📱 Mobile App Developer using <b>Flutter</b>.</li>
-        <li>💻 Building <b>Open Source Security Tools</b>.</li>
-        <li>🚀 <b>Future Goal:</b> Aspiring to become a world-renowned Cybersecurity Expert and develop AI-driven security solutions to tackle global threats, while pioneering technical excellence.</li>
-      </ul>
-    </td>
-    <td align="right" width="50%" dir="rtl">
-      <h3>من أنا وماذا أسعى؟</h3>
-      <ul>
-        <li>🎓 طالب <b>علوم حاسوب</b> ومهندس برمجيات شغوف بالابتكار.</li>
-        <li>🛡️ متخصص في الـ <b>Red Teaming</b> واختبار اختراق الويب.</li>
-        <li>📱 مطور تطبيقات هواتف ذكية باستخدام <b>Flutter</b>.</li>
-        <li>💻 أركز على بناء <b>أدوات أمنية مفتوحة المصدر</b>.</li>
-        <li>🚀 <b>طموحي المستقبلي:</b> أسعى لأن أكون خبيراً دولياً في الأمن السيبراني، وأساهم في بناء أنظمة ذكاء اصطناعي قادرة على مواجهة التحديات الأمنية العالمية، مع ترك بصمة تقنية رائدة في المحتوى العربي.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 الشهادات والإنجازات | Certifications & Achievements
-
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="50%" dir="ltr">
-      <h3>Professional Credentials</h3>
-      <ul>
-        <li>🛡️ <b>CEH v12</b> - Certified Ethical Hacker.</li>
-        <li>🎯 <b>Cybersecurity Bootcamp</b> - Professional Intensive Training.</li>
-        <li>🌐 <b>Web App Pentest</b> - Web Application Security Certification.</li>
-        <li>🐍 <b>Python Training</b> - Advanced Python Programming Certificate.</li>
-        <li>🎓 <b>Computer Science</b> - Undergraduate CS Student.</li>
-      </ul>
-    </td>
-    <td align="right" width="50%" dir="rtl">
-      <h3>الأوسمة المهنية والأكاديمية</h3>
-      <ul>
-        <li>🛡️ <b>CEH v12</b> - شهادة الهاكر الأخلاقي المعتمد.</li>
-        <li>🎯 <b>Cybersecurity Bootcamp</b> - معسكر تدريبي مكثف (جميل الطولية).</li>
-        <li>🌐 <b>Web App Pentest</b> - شهادة اختبار اختراق تطبيقات الويب.</li>
-        <li>🐍 <b>Python Training</b> - شهادة إتقان لغة بايثون.</li>
-        <li>🎓 <b>Computer Science</b> - طالب في تخصص علوم الحاسوب.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ الترسانة التقنية | Tech Stack & Tools
-
+<!-- Terminal Style About Section -->
 <div align="center">
-  <h4>💻 Programming Languages & Scripting</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,cs,dart,bash,powershell" alt="Programming Languages" />
-  </p>
-  
-  <h4>🌐 Web, Mobile & Databases</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=flutter,html,css,react,nextjs,postgres,mysql,sqlite" alt="Frameworks and Databases" />
-  </p>
-  
-  <h4>🐧 OS & Environments</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,docker,git" alt="OS and Tools" />
-  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
----
+<table align="center">
+  <tr>
+    <td width="50%">
+      <pre>
+╔══════════════════════════════╗
+║   👨‍💻 ./whoami              ║
+╠══════════════════════════════╣
+║ 🎓 CS Student & Engineer    ║
+║ 🛡️ Red Team Specialist      ║
+║ 🤖 AI Security Developer    ║
+║ 📱 Flutter App Creator      ║
+║ 💻 Open Source Advocate     ║
+║ 🚀 Future Cyber Expert      ║
+╚══════════════════════════════╝
+      </pre>
+    </td>
+    <td width="50%">
+      <pre>
+╔══════════════════════════════╗
+║   🎯 Current Mission        ║
+╠══════════════════════════════╣
+║ 🔍 Advanced Pentesting      ║
+║ 🧠 AI Prompt Engineering    ║
+║ 🔐 Security Tools Dev       ║
+║ 📚 Arabic Cyber Content     ║
+║ 🌐 Global Impact Goals      ║
+╚══════════════════════════════╝
+      </pre>
+    </td>
+  </tr>
+</table>
 
-### 📂 أبرز المشاريع والتطبيقات | Featured Projects & Labs
-
-#### 🛡️ أدوات الأمن السيبراني واختبار الاختراق (Cybersecurity & Pentesting)
-| المشروع (Project) | الوصف (Description) | التقنيات (Tech Stack) |
-| :--- | :--- | :--- |
-| 🎯 **[Pentest Commander](https://github.com/Rootx202/pentest-commander)** | أداة أتمتة شاملة لتنظيم وتسهيل خطوات اختبار الاختراق. | <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
-| 🔍 **[XSSRootX](https://github.com/Rootx202/XSSRootX)** | أداة متقدمة لاكتشاف واختبار ثغرات XSS في تطبيقات الويب. | <img src="https://img.shields.io/badge/-Security-000000?style=flat-square&logo=owasp&logoColor=white" /> |
-| 🌐 **[OsintRoo](https://github.com/Rootx202/OsintRoo)** | منصة مركزية تجمع أدوات استخبارات المصادر المفتوحة (OSINT). | <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
-| 🕵️ **[MAC-Changer-Pro](https://github.com/Rootx202/MAC-Changer-Pro)** | سكريبت احترافي لتغيير عنوان MAC وإجراء اختبارات الشبكة. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
-| 🕸️ **RootX Net-Sentinel** | أداة متقدمة لمراقبة وتحليل حركة مرور الشبكات. | <img src="https://img.shields.io/badge/-Networking-005571?style=flat-square&logo=cisco&logoColor=white" /> |
-
-#### 🤖 الذكاء الاصطناعي والأنظمة الخبيرة (AI & Smart Systems)
-| المشروع (Project) | الوصف (Description) | التقنيات (Tech Stack) |
-| :--- | :--- | :--- |
-| 🧠 **[RootXGPT](https://t.me/RootXGPT)** | مساعد ذكي (Telegram Bot) متخصص في الأمن السيبراني. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Telegram_API-26A8ED?style=flat-square&logo=telegram&logoColor=white" /> |
-| 💬 **NL-to-SQL Engine** | محرك ذكاء اصطناعي لتحويل اللغة الطبيعية إلى استعلامات SQL. | <img src="https://img.shields.io/badge/-AI_Model-FF6F00?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> |
-| 🔐 **Behavioral Auth** | نظام خبير ومتقدم للمصادقة الأمنية المبنية على سلوك المستخدم. | <img src="https://img.shields.io/badge/-Expert_System-8A2BE2?style=flat-square" /> |
-
-#### 📱 تطبيقات الهواتف والأنظمة البرمجية (Mobile Apps & Software)
-| المشروع (Project) | الوصف (Description) | التقنيات (Tech Stack) |
-| :--- | :--- | :--- |
-| 📁 **RootXShare** | تطبيق هواتف لمشاركة الملفات محلياً بسرعة عالية وبدون إنترنت. | <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> |
-| 🔒 **RootXVault** | مدير كلمات مرور مشفر وعالي الأمان لحماية الحسابات. | <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/-Crypto-000000?style=flat-square&logo=springsecurity&logoColor=white" /> |
-| 🛒 **Wasel Platform** | منصة سوق إلكتروني شاملة ومصممة خصيصاً للسوق اليمني. | <img src="https://img.shields.io/badge/-Full_Stack-333333?style=flat-square&logo=react&logoColor=white" /> |
-| 🩸 **Blood Bank System** | نظام إداري متكامل وحيوي لإدارة بنوك الدم وقواعد بياناتها. | <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> |
-| ⚙️ **[Xtractr](https://github.com/Rootx202/Xtractr) & [ConvX](https://github.com/Rootx202/ConvX)** | أدوات برمجية متخصصة في معالجة، استخلاص، وتحويل البيانات. | <img src="https://img.shields.io/badge/-Software-85EA2D?style=flat-square" /> |
-
-#### 📚 المنصات التعليمية (Educational Platforms)
-| المنصة (Platform) | الوصف (Description) | معاينة (Preview) |
-| :--- | :--- | :--- |
-| 🦅 **[Kali Arabic](https://kaliarabic.vercel.app/)** | المصدر العربي الأول لتعريب أدوات وشروحات نظام كالي لينكس. | [![Visit](https://img.shields.io/badge/Visit_Site-000000?style=flat-square&logo=vercel&logoColor=white)](https://kaliarabic.vercel.app/) |
-| 🧪 **[RootXLab](https://rootxlab.vercel.app/)** | منصة تعليمية شاملة ومختبر لاحتراف الأمن السيبراني بالعربية. | [![Visit](https://img.shields.io/badge/Visit_Site-000000?style=flat-square&logo=vercel&logoColor=white)](https://rootxlab.vercel.app/) |
-
----
-
-### 📊 الإحصائيات والنشاط | GitHub Stats
+<!-- Certifications Matrix -->
+<div align="center">
+  <h2>🏆 Professional Arsenal & Certifications</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rootx202&show_icons=true&theme=tokyonight&border_color=00ff41&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootx202&layout=compact&theme=tokyonight&border_color=00ff41&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/CEH_v12-Certified_Ethical_Hacker-ff0000?style=for-the-badge&logo=ec-council&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Bootcamp-Professional_Training-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Web_Pentest-Application_Security-ff6600?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Python_Advanced-Programming_Master-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Computer_Science-Undergraduate-f0db4f?style=for-the-badge&logo=academia&logoColor=black&labelColor=0D1117" />
+</p>
+
+<!-- Tech Stack Matrix -->
+<div align="center">
+  <h2>⚔️ Technical Arsenal</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
+</div>
+
+<details open>
+  <summary><b>🔥 Programming Languages</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,cs,dart,bash,powershell&perline=9&theme=dark" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>🌐 Web & Mobile Stack</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,html,css,react,nextjs,postgres,mysql,sqlite,qt&perline=9&theme=dark" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>🖥️ OS & DevOps</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,docker,git,github,githubactions,vscode&perline=9&theme=dark" />
+  </p>
+</details>
+
+<!-- Featured Projects -->
+<div align="center">
+  <h2>📂 Featured Arsenal Projects</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
+</div>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="background:#0D1117;color:#00ff41;text-align:center;">🛡️ Cybersecurity & Pentesting Tools</th>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>🎯 Pentest Commander</b></td>
+    <td width="70%">Automation framework for structured penetration testing workflows</td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>🔍 XSSRootX</b></td>
+    <td width="70%">Advanced XSS vulnerability detection & exploitation toolkit</td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>🌐 OsintRoo</b></td>
+    <td width="70%">Centralized OSINT intelligence gathering platform</td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>🕵️ MAC-Changer-Pro</b></td>
+    <td width="70%">Professional network anonymity & MAC spoofing utility</td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>🗂️ RootX-BackupHunter</b></td>
+    <td width="70%">20K+ path backup file scanner for Bug Bounty & pentesting</td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>🔐 recongrep</b></td>
+    <td width="70%">Ultra-fast secret & credential scanner with minimal false positives</td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th colspan="2" style="background:#0D1117;color:#00ff41;text-align:center;">🤖 AI & Smart Systems</th>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>🧠 CyberSec-Prompts-Hub</b></td>
+    <td width="70%">500+ bilingual (AR/EN) AI prompts library for cybersecurity</td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>🔐 ROOTX-Cipher</b></td>
+    <td width="70%">Professional desktop encryption suite (Python + PyQt6)</td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><b>📦 RootX-PPM</b></td>
+    <td width="70%">Offline-capable Python package manager with security scanning</td>
+  </tr>
+</table>
+
+<!-- GitHub Stats Matrix -->
+<div align="center">
+  <h2>📊 Battle Statistics</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/Rootx202">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rootx202&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rootx202&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=0D1117&title_color=00ff41&text_color=ffffff&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rootx202&theme=tokyonight&border=00ff41&hide_border=true&fire=00ff41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rootx202&theme=chartreuse-dark&background=0D1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=999999&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rootx202&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5" />
+</p>
 
-### 🤝 تواصل معي | Let's Connect
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rootx202&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&custom_title=Contribution%20Timeline&color=00ff41&line=00ff41&point=00ff41" />
+</p>
+
+<!-- Education Platforms -->
+<div align="center">
+  <h2>📚 Educational Platforms</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://kaliarabic.vercel.app/">
+        <img src="https://img.shields.io/badge/🦅_Kali_Arabic-Arabic_Linux_Hub-00ff41?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://rootxlab.vercel.app/">
+        <img src="https://img.shields.io/badge/🧪_RootXLab-Cyber_Education_Lab-ff6600?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Connect Section -->
+<div align="center">
+  <h2>🌐 Connect & Collaborate</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" />
+</div>
 
 <p align="center">
   <a href="https://t.me/RootXGPT">
-    <img src="https://img.shields.io/badge/Telegram-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/🤖_RootXGPT_Bot-26A8ED?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://t.me/rootx.202">
+    <img src="https://img.shields.io/badge/📢_Telegram_Channel-26A8ED?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://www.tiktok.com/@rootx.202">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="mailto:learnwithrootx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://github.com/Rootx202">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
+<!-- Support -->
+<div align="center">
+  <a href="https://www.buymeacoffee.com/rootx202">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0D1117" />
+  </a>
+</div>
+
+<!-- Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear." alt="Hacker Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=chartreuse-dark&border_color=00ff41&bg_color=0D1117&quote=In%20the%20world%20of%20cyberspace%2C%20the%20only%20constant%20is%20the%20hunt%20for%20knowledge.&author=Bashar%20%7C%20RootX" />
 </p>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%" />
+  
+  <h3>⚡ RootX | Breaking Barriers, Building Solutions ⚡</h3>
+  
+  <p>Last updated: <!-- last_updated --></p>
 </div>
