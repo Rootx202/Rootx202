@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Bashar%20Khamousi%20%7C%20RootX&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Red%20Teamer%20%7C%20AI%20Developer%20%7C%20Open%20Source%20Creator&descAlignY=55&descFontSize=18&stroke=00ff41&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Bashar%20Khamousi%20%7C%20RootX&fontSize=48&fontColor=00ff41&animat[...] 
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=Red+Teamer+%26+Security+Researcher;CEH+v12+Certified+Professional;AI-Driven+Security+Solutions+Builder;Flutter+Mobile+Developer;Open+Source+Security+Tools+Creator)](https://github.com/Rootx202)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=Red+Teamer+%26+Security+Researc[...]
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate Software Engineer specializing in **Red Teaming**, **Web Application Penetration Testing**, and **AI-driven cybersecurity solutions**. I build open-source security tools, develop cross-platform mobile apps with **Flutter**, and create Arabic educational content in cybersecurity.
+I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate Software Engineer specializing in **Red Teaming**, **Web Application Penetration Testing**, and **AI-driven cybersecur[...]
 
 > 🚀 **Future Goal:** Become a world-renowned Cybersecurity Expert, develop AI-powered defense systems, and pioneer technical excellence in Arabic content.
 
@@ -49,7 +49,7 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
-[![CEH](https://img.shields.io/badge/CEH_v12-Certified_Ethical_Hacker-ff0000?style=for-the-badge&logo=ec-council&logoColor=white)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
+[![CEH](https://img.shields.io/badge/CEH_v12-Certified_Ethical_Hacker-ff0000?style=for-the-badge&logo=ec-council&logoColor=white)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-[...]
 [![Bootcamp](https://img.shields.io/badge/Cyber_Bootcamp-Professional_Training-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Rootx202)
 [![WebPentest](https://img.shields.io/badge/Web_Pentest-App_Security-ff6600?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/Rootx202)
 [![Python](https://img.shields.io/badge/Python_Advanced-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Rootx202)
@@ -114,12 +114,15 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 | Project | Description | Language |
 |:---|:---|:---:|
-| [**🎯 Pentest-Commander**](https://github.com/Rootx202/Pentest-Commander) | Comprehensive automation tool to organize and facilitate penetration testing workflow steps. | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| [**🎯 Pentest-Commander**](https://github.com/Rootx202/Pentest-Commander) | Comprehensive automation tool to organize and facilitate penetration testing workflow steps. | ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
 | [**🔍 XSSRootX**](https://github.com/Rootx202/XSSRootX) | Advanced tool for detecting and testing XSS vulnerabilities in web applications. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**🌐 OsintRoo**](https://github.com/Rootx202/OsintRoo) | Centralized platform aggregating Open Source Intelligence (OSINT) tools. | ![HTML](https://img.shields.io/badge/HTML%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [**🕵️ MAC-Changer-Pro**](https://github.com/Rootx202/MAC-Changer-Pro) | Professional script for MAC address changing and network testing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**🗂️ RootX-BackupHunter**](https://github.com/Rootx202/RootX-BackupHunter) | Advanced tool for discovering exposed backup files. Scans 20,000+ paths for pentesting & Bug Bounty. | ![Python](https://img.shields.io/badge/Python%2FAsync-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**🔐 recongrep**](https://github.com/Rootx202/recongrep) | Fast recon tool for scanning code and detecting passwords, API keys & secrets with minimal false positives. | ![Security](https://img.shields.io/badge/Security-000000?style=flat-square&logo=owasp&logoColor=white) |
+| [**🗂️ RootX-BackupHunter**](https://github.com/Rootx202/RootX-BackupHunter) | Advanced tool for discovering exposed backup files. Scans 20,000+ paths for pentesting & Bug Bounty. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**🔐 recongrep**](https://github.com/Rootx202/recongrep) | Fast recon tool for scanning code and detecting passwords, API keys & secrets with minimal false positives. | ![Security](https://img.shields.io/badge/Security-ff6600?style=flat-square) |
+| [**🛡️ AppSec-Skills**](https://github.com/Rootx202/appsec-skills) | 15 plug-and-play AppSec skills for automated auditing and hardening (OWASP Top 10, auth, API, secrets). | ![Tools](https://img.shields.io/badge/AppSec-Skills-00ff41?style=flat-square) |
+| [**🕸️ RootXCrawler**](https://github.com/Rootx202/RootXCrawler) | Powerful web crawler for discovering pages and resources, useful for reconnaissance and analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
+| [**🛠️ SQLMap-GUI**](https://github.com/Rootx202/SQLMap-GUI) | Professional graphical interface for sqlmap — built with PyQt6. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
 
 ---
 
@@ -127,9 +130,9 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 | Project | Description | Stack |
 |:---|:---|:---:|
-| [**🧠 CyberSec-Prompts-Hub**](https://github.com/Rootx202/CyberSec-Prompts-Hub) | Bilingual (Arabic/English) library with 500+ professional AI prompts for cybersecurity. | ![AI](https://img.shields.io/badge/AI%2FMarkdown-FF6F00?style=flat-square&logo=openai&logoColor=white) |
-| [**🔐 ROOTX-Cipher**](https://github.com/Rootx202/ROOTX-Cipher) | Professional desktop application for encryption and hashing using Python and PyQt6. | ![PyQt6](https://img.shields.io/badge/Python%2FPyQt6-3776AB?style=flat-square&logo=qt&logoColor=white) |
-| [**📦 RootX-PPM**](https://github.com/Rootx202/RootX-PPM) | Integrated Python environment manager (GUI + CLI) with security scanning and offline support. | ![PyQt6](https://img.shields.io/badge/Python%2FPyQt6-3776AB?style=flat-square&logo=qt&logoColor=white) |
+| [**🧠 CyberSec-Prompts-Hub**](https://github.com/Rootx202/CyberSec-Prompts-Hub) | Bilingual (Arabic/English) library with 500+ professional AI prompts for cybersecurity. | ![AI](https://img.shields.io/badge/AI-00ff41?style=flat-square) |
+| [**🔐 ROOTX-Cipher**](https://github.com/Rootx202/ROOTX-Cipher) | Professional desktop application for encryption and hashing using Python and PyQt6. | ![PyQt6](https://img.shields.io/badge/PyQt6-000000?style=flat-square) |
+| [**📦 RootX-PPM**](https://github.com/Rootx202/RootX-PPM) | Integrated Python environment manager (GUI + CLI) with security scanning and offline support. | ![PyQt6](https://img.shields.io/badge/PyQt6-000000?style=flat-square) |
 
 ---
 
@@ -139,7 +142,8 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 |:---|:---|:---:|
 | [**⚙️ Xtractr**](https://github.com/Rootx202/Xtractr) | Specialized tool for data extraction and processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**🔄 ConvX**](https://github.com/Rootx202/ConvX) | Specialized tool for data conversion and formatting. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**📤 Uploader**](https://github.com/Rootx202/uploader) | Desktop app for uploading files to remote servers via multiple protocols with password encryption. | ![PyQt5](https://img.shields.io/badge/Python%2FPyQt5-3776AB?style=flat-square&logo=qt&logoColor=white) |
+| [**📤 Uploader**](https://github.com/Rootx202/uploader) | Desktop app for uploading files to remote servers via multiple protocols with password encryption. | ![PyQt5](https://img.shields.io/badge/PyQt5-000000?style=flat-square) |
+| [**📦 PPM**](https://github.com/Rootx202/PPM) | Smart Python CLI for virtual environment management, offline caching and security scanning. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
@@ -147,8 +151,8 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 | Platform | Description | Link |
 |:---|:---|:---:|
-| [**🦅 Kali Arabic**](https://kaliarabic.vercel.app/) | The first Arabic source for localizing Kali Linux tools and tutorials. | [![Visit](https://img.shields.io/badge/Visit-00ff41?style=flat-square)](https://kaliarabic.vercel.app/) |
-| [**🧪 RootX Lab**](https://rootxlab.vercel.app/) | Comprehensive educational platform and lab for mastering cybersecurity in Arabic. | [![Visit](https://img.shields.io/badge/Visit-ff6600?style=flat-square)](https://rootxlab.vercel.app/) |
+| [**🦅 Kali Arabic**](https://kaliarabic.vercel.app/) | The first Arabic source for localizing Kali Linux tools and tutorials. | [![Visit](https://img.shields.io/badge/Visit-00ff41?style=flat-[...]
+| [**🧪 RootX Lab**](https://rootxlab.vercel.app/) | Comprehensive educational platform and lab for mastering cybersecurity in Arabic. | [![Visit](https://img.shields.io/badge/Visit-ff6600?styl[...]
 
 ---
 
@@ -156,12 +160,12 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rootx202&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootx202&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=0D1117&title_color=00ff41&text_color=ffffff&hide_border=false" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rootx202&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=0D1117&title_color=00ff41&icon_color=00ff4[...]
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootx202&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=0D1117&title_color=00ff41&text_c[...]
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rootx202&theme=chartreuse-dark&background=0D1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=999999&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rootx202&theme=chartreuse-dark&background=0D1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums[...]
 
 <br/><br/>
 
@@ -169,7 +173,7 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rootx202&theme=chartreuse-dark&bg_color=0D1117&hide_border=false&custom_title=Contribution%20Timeline&color=00ff41&line=00ff41&point=00ff41" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rootx202&theme=chartreuse-dark&bg_color=0D1117&hide_border=false&custom_title=Contribution%20Timeline&color=00ff41&line=00[...]
 
 </div>
 
