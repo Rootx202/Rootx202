@@ -1,31 +1,29 @@
 <!-- ============================================================ -->
-<!--                     ANIMATED HEADER                          -->
+<!--             MATRIX CYBERPUNK ANIMATED HEADER                 -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Bashar%20Khamousi%20%7C%20RootX&fontSize=48&fontColor=00ff41" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,10,20&height=240&section=header&text=BASHAR%20KHAMOUSI%20%7C%20ROOTX&fontSize=42&fontColor=00ff41&fontAlignY=50&animation=scaleIn&stroke=00ff41&strokeWidth=2" alt="header" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00FF41&center=true&width=800&lines=Red+Teamer+%26+Security+Researcher)](https://github.com/Rootx202)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=500&color=00FF41&center=true&width=800&lines=CYBER+SECURITY+RESEARCHER+%7C+RED+TEAM+OPERATOR+%7C+EXPLOIT+DEVELOPER)](https://github.com/Rootx202)
 
 <br/>
 
-[![Telegram Bot](https://img.shields.io/badge/RootXGPT_Bot-26A8ED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootXGPT)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rootx.202)
-[![Profile Views](https://komarev.com/ghpvc/?username=Rootx202&label=Profile+Views&color=00ff41&style=for-the-badge)](https://github.com/Rootx202)
-[![Followers](https://img.shields.io/github/followers/Rootx202?style=for-the-badge&logo=github&color=00ff41)](https://github.com/Rootx202?tab=followers)
+[![Telegram Bot](https://img.shields.io/badge/RootXGPT_Bot-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://t.me/RootXGPT)
+[![TikTok](https://img.shields.io/badge/TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://www.tiktok.com/@rootx.202)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rootx202&label=Access+Logs&color=00ff41&style=for-the-badge&abbreviated=true)](https://github.com/Rootx202)
+[![Followers](https://img.shields.io/github/followers/Rootx202?style=for-the-badge&logo=github&color=0d1117&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://github.com/Rootx202?tab=followers)
 
 </div>
 
 ---
 
-<!-- ============================================================ -->
-<!--                  🇺🇸  ENGLISH SECTION                        -->
-<!-- ============================================================ -->
-
-<h1 align="center">🇺🇸 English</h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/iampavankumar/iampavankumar/master/gifs/cyber-security.gif" width="100%" alt="Cyber Background Animation"/>
+</div>
 
 ---
 
@@ -49,10 +47,10 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
-[![CEH](https://img.shields.io/badge/CEH_v12-Certified_Ethical_Hacker-ff0000?style=for-the-badge&logo=ec-council&logoColor=white)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-[![Bootcamp](https://img.shields.io/badge/Cyber_Bootcamp-Professional_Training-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Rootx202)
-[![WebPentest](https://img.shields.io/badge/Web_Pentest-App_Security-ff6600?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/Rootx202)
-[![Python](https://img.shields.io/badge/Python_Advanced-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Rootx202)
+[![CEH](https://img.shields.io/badge/CEH_v12-Certified_Ethical_Hacker-0d1117?style=for-the-badge&logo=ec-council&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![Bootcamp](https://img.shields.io/badge/Cyber_Bootcamp-Professional_Training-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://github.com/Rootx202)
+[![WebPentest](https://img.shields.io/badge/Web_Pentest-App_Security-0d1117?style=for-the-badge&logo=owasp&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://github.com/Rootx202)
+[![Python](https://img.shields.io/badge/Python_Advanced-Programming-0d1117?style=for-the-badge&logo=python&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://github.com/Rootx202)
 
 </div>
 
@@ -64,15 +62,15 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00ff41)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff41)
 
 </div>
 
@@ -80,14 +78,14 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00ff41)
 
 </div>
 
@@ -95,64 +93,39 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=00ff41)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff41)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41)
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Source Code Repositories
 
-### 🛡️ Cybersecurity & Pentesting
+<div align="center">
 
-| Project | Description | Language |
-|:---|:---|:---:|
-| [**🎯 Pentest-Commander**](https://github.com/Rootx202/Pentest-Commander) | Comprehensive automation tool to organize and facilitate penetration testing workflow steps. | Python |
-| [**🔍 XSSRootX**](https://github.com/Rootx202/XSSRootX) | Advanced tool for detecting and testing XSS vulnerabilities in web applications. | Python |
-| [**🌐 OsintRoo**](https://github.com/Rootx202/OsintRoo) | Centralized platform aggregating Open Source Intelligence (OSINT) tools. | HTML/JS |
-| [**🕵️ MAC-Changer-Pro**](https://github.com/Rootx202/MAC-Changer-Pro) | Professional script for MAC address changing and network testing. | Python |
-| [**🗂️ RootX-BackupHunter**](https://github.com/Rootx202/RootX-BackupHunter) | Advanced tool for discovering exposed backup files. Scans 20,000+ paths for pentesting & Bug Bounty. | Python |
-| [**🔐 recongrep**](https://github.com/Rootx202/recongrep) | Fast recon tool for scanning code and detecting passwords, API keys & secrets with minimal false positives. | Go/Python |
-| [**🛡️ AppSec-Skills**](https://github.com/Rootx202/appsec-skills) | 15 plug-and-play AppSec skills for automated auditing and hardening (OWASP Top 10, auth, API, secrets). | Tools |
-| [**🕸️ RootXCrawler**](https://github.com/Rootx202/RootXCrawler) | Powerful web crawler for discovering pages and resources, useful for reconnaissance and analysis. | Python |
-| [**🛠️ SQLMap-GUI**](https://github.com/Rootx202/SQLMap-GUI) | Professional graphical interface for sqlmap — built with PyQt6. | Python |
+> **ACCESS ALL REPOSITORIES & SECURITY TOOLS**
+> 
+> Explore the full arsenal of offensive security scripts, automation engines, and system utilities.
+
+[![Explore All Repositories](https://img.shields.io/badge/📁_BROWSE_ALL_GITHUB_REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&colorA=0d1117&colorB=00ff41)](https://github.com/Rootx202?tab=repositories)
+
+</div>
 
 ---
 
-### 🤖 AI & Smart Systems
-
-| Project | Description | Stack |
-|:---|:---|:---:|
-| [**🧠 CyberSec-Prompts-Hub**](https://github.com/Rootx202/CyberSec-Prompts-Hub) | Bilingual (Arabic/English) library with 500+ professional AI prompts for cybersecurity. | AI |
-| [**🔐 ROOTX-Cipher**](https://github.com/Rootx202/ROOTX-Cipher) | Professional desktop application for encryption and hashing using Python and PyQt6. | PyQt6 |
-| [**📦 RootX-PPM**](https://github.com/Rootx202/RootX-PPM) | Integrated Python environment manager (GUI + CLI) with security scanning and offline support. | Python |
-
----
-
-### ⚙️ Development Tools & Utilities
-
-| Project | Description | Language |
-|:---|:---|:---:|
-| [**⚙️ Xtractr**](https://github.com/Rootx202/Xtractr) | Specialized tool for data extraction and processing. | Python |
-| [**🔄 ConvX**](https://github.com/Rootx202/ConvX) | Specialized tool for data conversion and formatting. | Python |
-| [**📤 Uploader**](https://github.com/Rootx202/uploader) | Desktop app for uploading files to remote servers via multiple protocols with password encryption. | Python |
-| [**📦 PPM**](https://github.com/Rootx202/PPM) | Smart Python CLI for virtual environment management, offline caching and security scanning. | Python |
-
----
-
-### 📚 Educational Platforms
+## 📚 Educational Platforms
 
 | Platform | Description | Link |
 |:---|:---|:---:|
-| [**🦅 Kali Arabic**](https://kaliarabic.vercel.app/) | The first Arabic source for localizing Kali Linux tools and tutorials. | [![Visit](https://img.shields.io/badge/Visit-00ff41?style=flat-square&logo=vercel&logoColor=white)](https://kaliarabic.vercel.app/) |
-| [**🧪 RootX Lab**](https://rootxlab.vercel.app/) | Comprehensive educational platform and lab for mastering cybersecurity in Arabic. | [![Visit](https://img.shields.io/badge/Visit-ff6600?style=flat-square&logo=vercel&logoColor=white)](https://rootxlab.vercel.app/) |
+| [**🦅 Kali Arabic**](https://kaliarabic.vercel.app/) | The first Arabic source for localizing Kali Linux tools and tutorials. | [![Visit](https://img.shields.io/badge/Access-0d1117?style=flat-square&logo=vercel&logoColor=00ff41)](https://kaliarabic.vercel.app/) |
+| [**🧪 RootX Lab**](https://rootxlab.vercel.app/) | Comprehensive educational platform and lab for mastering cybersecurity in Arabic. | [![Visit](https://img.shields.io/badge/Access-0d1117?style=flat-square&logo=vercel&logoColor=00ff41)](https://rootxlab.vercel.app/) |
 
 ---
 
@@ -160,12 +133,12 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rootx202&show_icons=true&theme=chartreuse-dark" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootx202&layout=compact&theme=chartreuse-dark" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rootx202&show_icons=true&theme=nord" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootx202&layout=compact&theme=nord" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rootx202&theme=chartreuse-dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rootx202&theme=nord" />
 
 <br/><br/>
 
@@ -173,7 +146,7 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rootx202&theme=chartreuse-dark&custom_title=Contribution%20Timeline&color=00ff41&line=00ff41" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rootx202&theme=nord&custom_title=Adversary%20Activity%20Timeline&color=00ff41&line=00ff41" />
 
 </div>
 
@@ -183,15 +156,15 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
-[![Telegram Bot](https://img.shields.io/badge/RootXGPT_Bot-26A8ED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootXGPT)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A8ED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rootx.202)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rootx.202)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learnwithrootx@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rootx202)
+[![Telegram Bot](https://img.shields.io/badge/RootXGPT_Bot-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://t.me/RootXGPT)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://t.me/rootx.202)
+[![TikTok](https://img.shields.io/badge/TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://www.tiktok.com/@rootx.202)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](mailto:learnwithrootx@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://github.com/Rootx202)
 
 <br/>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/rootx202)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=00ff41&colorA=0d1117&colorB=0d1117)](https://www.buymeacoffee.com/rootx202)
 
 </div>
 
@@ -199,13 +172,14 @@ I'm **Bashar Khamousi (RootX)** — a Computer Science student and passionate So
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/iampavankumar/iampavankumar/master/gifs/cyber-security.gif" width="100%" alt="Cyber Background Animation"/>
+
+<br/><br/>
+
 > *"The quieter you become, the more you are able to hear."*
 
 **⚡ RootX | Breaking Barriers, Building Solutions ⚡**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,10,20&height=120&section=footer&stroke=00ff41&strokeWidth=2" width="100%" />
